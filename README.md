@@ -1,4 +1,10 @@
-## How to use
+## なにこれ
+
+- 長ったらしい、もしくは覚えにくいコマンドを Rake でラップするサンプル
+- サンプルは aws-cli や docker コマンド、docker-compose コマンドをラッピングしている
+- モチベーションについては[こちら](http://inokara.hateblo.jp/entry/2016/01/23/021142)
+
+## 使い方
 
 ### Install
 
